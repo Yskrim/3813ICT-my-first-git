@@ -1,0 +1,24 @@
+{
+  "name": "3813ict-my-first-git",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yskrim/3813ICT-my-first-git.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Yskrim/3813ICT-my-first-git/issues"
+  },
+  "homepage": "https://github.com/Yskrim/3813ICT-my-first-git#readme",
+  "dependencies": {
+    "array-add-num": "^1.10.0"
+  }
+}
