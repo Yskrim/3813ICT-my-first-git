@@ -1,14 +1,20 @@
 3813ICT-my-first-git
 
-TASK1: -- DONE
-Create a new git repo and clone it to IDE
+# TASK1: Setting up GitHub -- DONE
 
-TASK2: -- DONE
+    Create a new git repo and clone it to IDE
+
+---
+
+# TASK2: Cloning and pushing changes -- DONE
 
 - Run `npm init` and create a new node project.
 - Add `index.js` and make it `console.log("Hello world")`
 
-TASK3: --
+---
+
+# TASK3: -- Writing the ReadMe DONE
+
 Writing the README.md
 
 - Project title
@@ -50,3 +56,16 @@ The idea behind this project is to practice git and markdown language.
 |  10  |              Unit and integration testing               |
 |  11  |                   End to end testing                    |
 |  12  |            Assignment Phase 2 Demonstration             |
+
+---
+
+# TASK 4: Branching -- DONE
+
+1. On your local machine, create a new branch called "adding-function" and check out this branch.
+2. In index.js, add a function that adds two numbers, and after the "Hello World", print out the sum of 5+10 by calling this function.
+3. Push the changes to the branch with the commit message "added adding function"
+
+```js
+const addFunc = (a, b) => a + b;
+console.log(addFunc(5, 10));
+```
