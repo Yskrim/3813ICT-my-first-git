@@ -69,3 +69,15 @@ The idea behind this project is to practice git and markdown language.
 const addFunc = (a, b) => a + b;
 console.log(addFunc(5, 10));
 ```
+
+# TASK 5 – Merge Conflicts
+
+- Find a partner and have him/her clone your repository and check out the master branch.
+- Your partner should change the "Hello World" to "I caused a merge conflict."
+- Afterwards your partner should check their changes back into the master branch with the commit message "partner changes".
+
+If there is no partner available for you, you may 
+- get back the github website, 
+- change the file index.js in the master branch, and commit the change in the github website. 
+- Now attempt to merge the local branch "adding function" into the master branch at GitHub. This will involve several steps. 
+- You need to pull the latest version from the github website, which will create a merge conflict that need to be resolved.
