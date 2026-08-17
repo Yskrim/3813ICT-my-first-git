@@ -1,0 +1,20 @@
+{
+  "name": "my-first-git",
+  "version": "1.0.0",
+  "description": "task2 for lab2",
+  "homepage": "https://github.com/Yskrim/3813ICT-my-first-git#readme",
+  "bugs": {
+    "url": "https://github.com/Yskrim/3813ICT-my-first-git/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yskrim/3813ICT-my-first-git.git"
+  },
+  "license": "ISC",
+  "author": "Anton Korotkov",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
